@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T20:08:05.311Z",
+  "generated_at": "2026-11-21T17:05:51.714Z",
   "items": {
     "problem:121": {
       "kind": "problem",
@@ -176,6 +176,19 @@
       "path": "math/0018-descriptive-statistics",
       "first_solved_at": "2026-11-20T20:06:35.681Z",
       "last_pushed_at": "2026-11-20T20:08:07.836Z"
+    },
+    "problem:309": {
+      "kind": "problem",
+      "id": "309",
+      "title": "Product Rule for Derivatives",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/309",
+      "path": "problems/0309-product-rule-for-derivatives",
+      "first_solved_at": "2026-01-22T17:47:38.601Z",
+      "last_pushed_at": "2026-01-22T17:47:38.601Z",
+      "language": "python",
+      "lines": 30
     }
   }
 }
