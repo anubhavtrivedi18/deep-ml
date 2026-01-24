@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T17:05:51.714Z",
+  "generated_at": "2026-11-21T17:05:53.652Z",
   "items": {
     "problem:121": {
       "kind": "problem",
@@ -189,6 +189,32 @@
       "last_pushed_at": "2026-01-22T17:47:38.601Z",
       "language": "python",
       "lines": 30
+    },
+    "problem:308": {
+      "kind": "problem",
+      "id": "308",
+      "title": "Gradient Direction and Magnitude",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/308",
+      "path": "problems/0308-gradient-direction-and-magnitude",
+      "first_solved_at": "2026-01-24T10:14:20.567Z",
+      "last_pushed_at": "2026-01-24T10:14:20.567Z",
+      "language": "python",
+      "lines": 30
+    },
+    "problem:215": {
+      "kind": "problem",
+      "id": "215",
+      "title": "Partial Derivatives of Multivariable Functions",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/215",
+      "path": "problems/0215-partial-derivatives-of-multivariable-functions",
+      "first_solved_at": "2026-01-24T11:13:03.014Z",
+      "last_pushed_at": "2026-01-24T11:13:03.014Z",
+      "language": "python",
+      "lines": 35
     }
   }
 }
