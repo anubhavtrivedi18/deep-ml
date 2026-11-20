@@ -8,8 +8,10 @@ def transpose_matrix(a: list[list[int|float]]) -> list[list[int|float]]:
     Returns:
         The transposed matrix of shape (n, m)
     """
-    import numpy as np
-    # Your code here
-    matrix = np.array(a)
-    result = list(zip(*matrix))
-    return np.array(result)
+    i = len(a)
+    j = len(a[0])
+    matrix = [[1]*i for _ in range(j)]
+    for l in range(i):
+        for k in range(j):
+            matrix[k][l] = a[l][k]
+    return matrix 
