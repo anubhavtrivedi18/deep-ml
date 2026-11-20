@@ -11,5 +11,5 @@ def transpose_matrix(a: list[list[int|float]]) -> list[list[int|float]]:
     import numpy as np
     # Your code here
     matrix = np.array(a)
-    result = tuple(zip(*matrix))
+    result = list(zip(*matrix))
     return np.array(result)
