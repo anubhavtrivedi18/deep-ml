@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T18:59:06.935Z",
+  "generated_at": "2026-11-21T20:04:47.778Z",
   "items": {
     "problem:121": {
       "kind": "problem",
@@ -333,6 +333,17 @@
       "last_pushed_at": "2026-11-21T18:59:09.521Z",
       "language": "python",
       "lines": 17
+    },
+    "math:37": {
+      "kind": "math",
+      "id": "37",
+      "title": "Taylor Expansions and Local Quadratic Models",
+      "difficulty": "medium",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/37",
+      "path": "math/0037-taylor-expansions-and-local-quadratic-models",
+      "first_solved_at": "2026-11-21T20:04:50.246Z",
+      "last_pushed_at": "2026-11-21T20:04:50.246Z"
     }
   }
 }
