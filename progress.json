@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T16:19:09.777Z",
+  "generated_at": "2026-11-24T16:25:58.643Z",
   "items": {
     "problem:121": {
       "kind": "problem",
@@ -462,6 +462,17 @@
       "path": "math/0025-kl-divergence",
       "first_solved_at": "2026-11-24T16:16:41.789Z",
       "last_pushed_at": "2026-11-24T16:16:41.789Z"
+    },
+    "math:30": {
+      "kind": "math",
+      "id": "30",
+      "title": "ML Workflow Basics",
+      "difficulty": "easy",
+      "category": "Supervised learning setup",
+      "url": "https://www.deep-ml.com/math-problems/30",
+      "path": "math/0030-ml-workflow-basics",
+      "first_solved_at": "2026-11-24T16:25:56.799Z",
+      "last_pushed_at": "2026-11-24T16:25:56.799Z"
     }
   }
 }
