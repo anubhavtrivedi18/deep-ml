@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**44** solved · 26 problems · 0 labs · 18 math
+**45** solved · 27 problems · 0 labs · 18 math
 
 ![Coverage](./coverage.svg)
 
@@ -24,6 +24,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2026-11-20 | [solution](problems/0015-linear-regression-using-gradient-descent) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-11-20 | [solution](problems/0001-matrix-vector-dot-product) |
 | [Min-Max Scaling of Feature Values](https://www.deep-ml.com/problems/112) | easy | 2026-11-24 | [solution](problems/0112-min-max-scaling-of-feature-values) |
+| [One-Hot Encoding of Nominal Values](https://www.deep-ml.com/problems/34) | easy | 2026-11-25 | [solution](problems/0034-one-hot-encoding-of-nominal-values) |
 | [Random Train/Validation/Test Split with Shuffling](https://www.deep-ml.com/problems/1058) | easy | 2026-11-24 | [solution](problems/1058-random-train-validation-test-split-with-shuffling) |
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2026-11-20 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-11-20 | [solution](problems/0002-transpose-of-a-matrix) |
