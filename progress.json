@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T14:17:49.471Z",
+  "generated_at": "2026-11-26T15:59:26.159Z",
   "items": {
     "problem:121": {
       "kind": "problem",
@@ -757,6 +757,19 @@
       "last_pushed_at": "2026-11-26T14:17:36.306Z",
       "language": "python",
       "lines": 35
+    },
+    "lab:3d26c3f9-cb73-4ab1-bc4d-86cfab2af6d1": {
+      "kind": "lab",
+      "id": "3d26c3f9-cb73-4ab1-bc4d-86cfab2af6d1",
+      "title": "Split the Data Honestly and Beat a Baseline",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/labs/3d26c3f9-cb73-4ab1-bc4d-86cfab2af6d1",
+      "path": "labs/3d26c3f9-cb73-4ab1-bc4d-86cfab2af6d1-split-the-data-honestly-and-beat-a-baseline",
+      "first_solved_at": "2026-11-26T15:59:23.119Z",
+      "last_pushed_at": "2026-11-26T15:59:23.119Z",
+      "language": "python",
+      "lines": 49
     }
   }
 }
