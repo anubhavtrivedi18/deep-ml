@@ -12,15 +12,15 @@ def recall(y_true, y_pred):
         Recall value as a float
     """
     true_positive = 0
-    false_positive = 0
+    false_negative = 0
     for i,j in zip(y_true,y_pred):
         if i==j==1:
             true_positive+=1
         elif i==1 and j==0:
-            false_positive+=1
+            false_negative+=1
         else:
             continue
-    if true_positive+false_positive==0:
+    if true_positive+false_negative==0:
         return 0.0
     else:
-        return true_positive/(false_positive+true_positive)
+        return true_positive/(true_positive+false_negative)
