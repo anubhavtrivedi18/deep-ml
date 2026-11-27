@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**63** solved · 43 problems · 2 labs · 18 math
+**64** solved · 43 problems · 2 labs · 19 math
 
 ![Coverage](./coverage.svg)
 
@@ -77,6 +77,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Vector Operations](https://www.deep-ml.com/math-problems/7) | easy | 2026-11-19 | [solution](math/0007-vector-operations) |
 | [Information Theory: Entropy](https://www.deep-ml.com/math-problems/24) | medium | 2026-11-24 | [solution](math/0024-information-theory-entropy) |
 | [Least Squares and the Normal Equations](https://www.deep-ml.com/math-problems/34) | medium | 2026-11-24 | [solution](math/0034-least-squares-and-the-normal-equations) |
+| [Logistic Regression as Maximum Likelihood](https://www.deep-ml.com/math-problems/40) | medium | 2026-11-27 | [solution](math/0040-logistic-regression-as-maximum-likelihood) |
 | [Matrix Multiplication](https://www.deep-ml.com/math-problems/10) | medium | 2026-11-19 | [solution](math/0010-matrix-multiplication) |
 | [Optimization: Convexity and Critical Points](https://www.deep-ml.com/math-problems/6) | medium | 2026-11-22 | [solution](math/0006-optimization-convexity-and-critical-points) |
 | [Regularization and Generalization](https://www.deep-ml.com/math-problems/31) | medium | 2026-11-22 | [solution](math/0031-regularization-and-generalization) |
