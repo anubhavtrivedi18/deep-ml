@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T07:48:54.469Z",
+  "generated_at": "2026-11-28T10:16:16.254Z",
   "items": {
     "problem:121": {
       "kind": "problem",
@@ -805,6 +805,19 @@
       "path": "problems/1127-filter-group-and-aggregate-a-dataframe-top-10-by-metric",
       "first_solved_at": "2026-11-28T07:48:51.958Z",
       "last_pushed_at": "2026-11-28T07:48:51.958Z",
+      "language": "python",
+      "lines": 7
+    },
+    "problem:1129": {
+      "kind": "problem",
+      "id": "1129",
+      "title": "Merge Multiple DataFrames",
+      "difficulty": "medium",
+      "category": "Pandas",
+      "url": "https://www.deep-ml.com/problems/1129",
+      "path": "problems/1129-merge-multiple-dataframes",
+      "first_solved_at": "2026-11-28T10:16:15.019Z",
+      "last_pushed_at": "2026-11-28T10:16:15.019Z",
       "language": "python",
       "lines": 7
     }
