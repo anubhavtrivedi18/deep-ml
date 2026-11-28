@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T10:16:16.254Z",
+  "generated_at": "2026-11-28T10:33:04.842Z",
   "items": {
     "problem:121": {
       "kind": "problem",
@@ -820,6 +820,19 @@
       "last_pushed_at": "2026-11-28T10:16:15.019Z",
       "language": "python",
       "lines": 7
+    },
+    "problem:2322": {
+      "kind": "problem",
+      "id": "2322",
+      "title": "Add Columns Computed from Other Columns",
+      "difficulty": "easy",
+      "category": "Pandas",
+      "url": "https://www.deep-ml.com/problems/2322",
+      "path": "problems/2322-add-columns-computed-from-other-columns",
+      "first_solved_at": "2026-11-28T10:33:03.611Z",
+      "last_pushed_at": "2026-11-28T10:33:03.611Z",
+      "language": "python",
+      "lines": 13
     }
   }
 }
