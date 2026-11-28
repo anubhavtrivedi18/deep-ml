@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T08:15:14.438Z",
+  "generated_at": "2026-11-28T07:48:54.469Z",
   "items": {
     "problem:121": {
       "kind": "problem",
@@ -794,6 +794,19 @@
       "path": "math/0040-logistic-regression-as-maximum-likelihood",
       "first_solved_at": "2026-11-27T08:15:11.474Z",
       "last_pushed_at": "2026-11-27T08:15:11.474Z"
+    },
+    "problem:1127": {
+      "kind": "problem",
+      "id": "1127",
+      "title": "Filter, Group, and Aggregate a DataFrame (Top-10 by Metric)",
+      "difficulty": "medium",
+      "category": "Pandas",
+      "url": "https://www.deep-ml.com/problems/1127",
+      "path": "problems/1127-filter-group-and-aggregate-a-dataframe-top-10-by-metric",
+      "first_solved_at": "2026-11-28T07:48:51.958Z",
+      "last_pushed_at": "2026-11-28T07:48:51.958Z",
+      "language": "python",
+      "lines": 7
     }
   }
 }

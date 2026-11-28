@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**64** solved · 43 problems · 2 labs · 19 math
+**65** solved · 44 problems · 2 labs · 19 math
 
 ![Coverage](./coverage.svg)
 
@@ -46,6 +46,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Compute the Hessian Matrix](https://www.deep-ml.com/problems/218) | medium | 2026-11-24 | [solution](problems/0218-compute-the-hessian-matrix) |
 | [Dummy Classifier Baseline](https://www.deep-ml.com/problems/847) | medium | 2026-11-26 | [solution](problems/0847-dummy-classifier-baseline) |
 | [Dummy Regressor Baseline](https://www.deep-ml.com/problems/848) | medium | 2026-11-26 | [solution](problems/0848-dummy-regressor-baseline) |
+| [Filter, Group, and Aggregate a DataFrame (Top-10 by Metric)](https://www.deep-ml.com/problems/1127) | medium | 2026-11-28 | [solution](problems/1127-filter-group-and-aggregate-a-dataframe-top-10-by-metric) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-11-20 | [solution](problems/0009-matrix-times-matrix) |
 | [Mini-Batch Gradient Descent Step for Linear Regression](https://www.deep-ml.com/problems/803) | medium | 2026-11-26 | [solution](problems/0803-mini-batch-gradient-descent-step-for-linear-regression) |
 | [Partial Derivatives of Multivariable Functions](https://www.deep-ml.com/problems/215) | medium | 2026-01-24 | [solution](problems/0215-partial-derivatives-of-multivariable-functions) |
