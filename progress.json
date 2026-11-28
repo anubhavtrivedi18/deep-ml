@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T10:53:04.814Z",
+  "generated_at": "2026-11-28T11:28:56.598Z",
   "items": {
     "problem:121": {
       "kind": "problem",
@@ -844,6 +844,19 @@
       "path": "math/0050-positive-definite-matrices-and-quadratic-forms",
       "first_solved_at": "2026-11-28T10:53:03.733Z",
       "last_pushed_at": "2026-11-28T10:53:03.733Z"
+    },
+    "problem:333": {
+      "kind": "problem",
+      "id": "333",
+      "title": "LU Decomposition of a Square Matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/333",
+      "path": "problems/0333-lu-decomposition-of-a-square-matrix",
+      "first_solved_at": "2026-11-28T11:28:55.318Z",
+      "last_pushed_at": "2026-11-28T11:28:55.318Z",
+      "language": "python",
+      "lines": 33
     }
   }
 }
